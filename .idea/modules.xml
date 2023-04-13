@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/OneDrive/桌面/java实战项目开发/博客/My-Blog-master/my-blog.iml" filepath="F:/OneDrive/桌面/java实战项目开发/博客/My-Blog-master/my-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-vue-xuexi.iml" filepath="$PROJECT_DIR$/springboot-vue-xuexi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-vue-xuexi-001/springboot-vue-xuexi-001.iml" filepath="$PROJECT_DIR$/springboot-vue-xuexi-001/springboot-vue-xuexi-001.iml" />
+    </modules>
+  </component>
+</project>
